@@ -8,6 +8,9 @@ export default function Header() {
       <div className=" header header-name">
         Marcus Vinicius
       </div>
+      <div className="header-separator">
+        
+      </div>
       <div className="header">
         <div className="header-a" id="header-home">
           <Link to='/' className="header-text">
