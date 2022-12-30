@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio-marcus-vinicius/static/css/main.219d2550.css",
-    "main.js": "/portfolio-marcus-vinicius/static/js/main.e33f598e.js",
+    "main.css": "/portfolio-marcus-vinicius/static/css/main.253c5e53.css",
+    "main.js": "/portfolio-marcus-vinicius/static/js/main.44ebedf9.js",
     "static/js/787.055e663a.chunk.js": "/portfolio-marcus-vinicius/static/js/787.055e663a.chunk.js",
+    "static/media/pexels-pixabay-461064.jpg": "/portfolio-marcus-vinicius/static/media/pexels-pixabay-461064.bce0e13283b959fbd233.jpg",
     "index.html": "/portfolio-marcus-vinicius/index.html",
-    "main.219d2550.css.map": "/portfolio-marcus-vinicius/static/css/main.219d2550.css.map",
-    "main.e33f598e.js.map": "/portfolio-marcus-vinicius/static/js/main.e33f598e.js.map",
+    "main.253c5e53.css.map": "/portfolio-marcus-vinicius/static/css/main.253c5e53.css.map",
+    "main.44ebedf9.js.map": "/portfolio-marcus-vinicius/static/js/main.44ebedf9.js.map",
     "787.055e663a.chunk.js.map": "/portfolio-marcus-vinicius/static/js/787.055e663a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.219d2550.css",
-    "static/js/main.e33f598e.js"
+    "static/css/main.253c5e53.css",
+    "static/js/main.44ebedf9.js"
   ]
 }
