@@ -1,0 +1,38 @@
+header {
+  background-color: brown;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+
+div .header-a {
+  display: inline;
+  padding: 3px;
+
+}
+
+a.header-text {
+  transition: 0.2s;
+  text-decoration: none;
+  color: aliceblue;
+}
+
+a.header-text:hover {
+  transition: 0.2s;
+  text-decoration: none;
+  color: aliceblue;
+  font-size: larger;
+  padding-bottom: 2px;
+  border-bottom: 3px solid black;
+}
+
+.header {
+  color: aliceblue;
+  text-transform: uppercase;
+  padding: 10px;
+  font-weight: 500;
+  height: 30px;
+}
