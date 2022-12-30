@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio-marcus-vinicius/static/css/main.073c9b0a.css",
-    "main.js": "/portfolio-marcus-vinicius/static/js/main.6cc176bc.js",
+    "main.css": "/portfolio-marcus-vinicius/static/css/main.219d2550.css",
+    "main.js": "/portfolio-marcus-vinicius/static/js/main.e33f598e.js",
     "static/js/787.055e663a.chunk.js": "/portfolio-marcus-vinicius/static/js/787.055e663a.chunk.js",
     "index.html": "/portfolio-marcus-vinicius/index.html",
-    "main.073c9b0a.css.map": "/portfolio-marcus-vinicius/static/css/main.073c9b0a.css.map",
-    "main.6cc176bc.js.map": "/portfolio-marcus-vinicius/static/js/main.6cc176bc.js.map",
+    "main.219d2550.css.map": "/portfolio-marcus-vinicius/static/css/main.219d2550.css.map",
+    "main.e33f598e.js.map": "/portfolio-marcus-vinicius/static/js/main.e33f598e.js.map",
     "787.055e663a.chunk.js.map": "/portfolio-marcus-vinicius/static/js/787.055e663a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6cc176bc.js"
+    "static/css/main.219d2550.css",
+    "static/js/main.e33f598e.js"
   ]
 }
