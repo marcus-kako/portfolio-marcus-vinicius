@@ -3,37 +3,32 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 100%;
   flex-wrap: wrap;
+  width: auto;
 }
 
-
-div .header-a {
-  display: inline;
-  padding: 3px;
-
-}
-
-a.header-text {
-  transition: 0.2s;
+ .header-text {
+  margin: 6px;
   text-decoration: none;
+  text-align: center;
   color: aliceblue;
-}
-
-a.header-text:hover {
-  transition: 0.2s;
-  text-decoration: none;
-  color: aliceblue;
-  font-size: larger;
-  padding-bottom: 2px;
-  border-bottom: 3px solid black;
-}
-
-.header {
-  color: aliceblue;
+  /* padding: 5px; */
+  font-style: italic;
   text-transform: uppercase;
-  padding: 10px;
-  font-weight: 500;
-  height: 30px;
-}
+ }
 
+ a.header-text:hover {
+  color: bisque;
+  border-radius: 20%;
+  border-bottom: 1px solid black;
+ }
+
+ a.selected {
+  color: bisque;
+  border-radius: 20%;
+  border-bottom: 1px solid black;
+ }
+
+ .header-link {
+  text-align: center;
+ }

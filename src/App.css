@@ -1,8 +1,17 @@
 body {
-  background-image: url("../public/pexels-pixabay-461064.jpg");
+  /* background-image: url("../public/notebook.jpg"); */
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
   text-align: center;
   font-weight: 900;
+}
+
+.container-main {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item-main {
+  width: 10%;
 }
