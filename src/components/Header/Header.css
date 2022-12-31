@@ -12,9 +12,10 @@ header {
   text-decoration: none;
   text-align: center;
   color: aliceblue;
-  /* padding: 5px; */
+  padding: 3px;
   font-style: italic;
   text-transform: uppercase;
+  font-size: 15px;
  }
 
  a.header-text:hover {
@@ -27,8 +28,4 @@ header {
   color: bisque;
   border-radius: 20%;
   border-bottom: 1px solid black;
- }
-
- .header-link {
-  text-align: center;
  }

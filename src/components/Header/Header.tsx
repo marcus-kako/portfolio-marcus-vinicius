@@ -13,17 +13,16 @@ export default function Header() {
             Home
           </Link>
           <Link to='/about' className="header-text">
-            About
+            Sobre
           </Link>
           <Link to='/projects' className="header-text">
-            Projects
+            Projetos
           </Link>
           <Link to='/skills' className="header-text">
             Skills
           </Link>
-
           <Link to='/contacts' className="header-text">
-            Contacts
+            Contatos
           </Link>
       </div>
     </header>

@@ -1,5 +1,5 @@
 body {
-  /* background-image: url("../public/notebook.jpg"); */
+  background-color: rgb(214, 214, 214);
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
@@ -14,4 +14,9 @@ body {
 
 .item-main {
   width: 10%;
+}
+
+.text-main {
+  color: aliceblue;
+  font-size: 3em;
 }

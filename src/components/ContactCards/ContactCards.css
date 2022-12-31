@@ -1,0 +1,59 @@
+.contact-cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  height: auto;
+}
+
+.card {
+  background-color: brown;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: space-between;
+  margin: 10px;
+  padding: 30px;
+  width: 100px;
+  height: 120px;
+  border-radius: 20%;
+  border: solid black 1px;
+}
+.card:hover {
+  transition: 0.2s;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: space-between;
+  margin: 10px;
+  padding: 30px;
+  width: 100px;
+  height: 120px;
+  border-radius: 20%;
+  border: solid black 1px;
+  box-shadow: 8px 5px 10px rgba(0, 0, 0, 0.363);
+}
+.img-contact-card{
+  margin-top: 10px ;
+}
+
+.link-icon {
+  text-decoration: none;
+  font-size: larger;
+  text-transform: uppercase;
+  color: azure;
+}
+
+.contactme-text {
+  text-transform: uppercase;
+  font-size: large;
+text-align: center;
+}
+
+.contacts {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  text-align: center;
+  height: 30vh;
+}
