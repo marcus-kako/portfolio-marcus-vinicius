@@ -19,7 +19,7 @@ const contactsRepository: Array<contacts> = [
     contactName: 'WhatsApp',
     contactImage: whatsapp,
     contactUrl:
-      'https://wa.me/5575988273988?text=Ol%C3%A1%21+Vim+pelo+seu+portf%C3%B3lio%21',
+      'https://contate.me/marcuskakodev',
   },
   {
     contactName: 'GitHub',
