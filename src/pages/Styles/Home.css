@@ -1,7 +1,62 @@
-div.container-main{
-  /* display: flex; */
-  /* margin-top: 100px; */
-  background-color: black;
-  /* width: 100px; */
-  /* height: 100%; */
+.content-home {
+  margin: 10px;
+  padding: 10px;
+  background-image: url(../../../public/cafe.svg);
+  background-color: rgba(75, 60, 56, 0.884);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: center;
+  justify-content: space-evenly;
+  border-radius: 10%;
+  border: solid rgb(15, 1, 1) 5px;
+  min-height: 400px;
+}
+
+.home-img {
+  width: 250px;
+  border-radius: 25%;
+  top: 0;  
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  border-top: solid rgb(255, 38, 0) 2px;
+}
+
+.text-home {
+  text-transform: uppercase;
+  /* font-size: 25px; */
+  font-weight: bold;
+  /* background-color: rgba(5, 4, 4, 0.473); */
+  color: rgb(196, 193, 193);
+}
+
+.link-home {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: rgb(241, 6, 6);
+  font-weight: bold;
+  background-color: rgb(197, 161, 161);
+  border-radius: 15%;
+}
+
+.center-home {
+  margin-top: 60px;
+  width: 100%;
+  text-align:center;
+  margin-bottom: 5px;
+}
+
+.text-about {
+  color: aliceblue;
+  line-break: loose;
+  text-align: justify;
+  padding: 10px;
+  margin: 2px;
+  margin-bottom: 10px;
+}
+
+.p-final {
+  margin-bottom: 70px;
 }

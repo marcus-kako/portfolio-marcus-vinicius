@@ -12,9 +12,6 @@ export default function Header() {
           <Link to='/' className="header-text">
             Home
           </Link>
-          <Link to='/about' className="header-text">
-            Sobre
-          </Link>
           <Link to='/projects' className="header-text">
             Projetos
           </Link>

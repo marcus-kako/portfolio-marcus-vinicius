@@ -1,17 +1,19 @@
 header {
   background-color: brown;
+  position: fixed;
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  width: auto;
+  width: 100%;
+  top: 0;
 }
 
  .header-text {
   margin: 6px;
   text-decoration: none;
   text-align: center;
-  color: aliceblue;
+  color: rgb(238, 234, 232);
   padding: 3px;
   font-style: italic;
   text-transform: uppercase;
@@ -19,7 +21,7 @@ header {
  }
 
  a.header-text:hover {
-  color: bisque;
+  color: rgb(29, 17, 3);
   border-radius: 20%;
   border-bottom: 1px solid black;
  }
