@@ -2,7 +2,7 @@ body {
   background-image: url('/public/cafe.svg');
   background-color: rgba(56, 8, 8, 0.952);
   background-size: cover;
-  background-position: center center;
+  background-position: center;
   background-attachment: fixed;
   text-align: center;
   font-weight: 900;

@@ -1,8 +1,8 @@
 .content-home {
   margin: 10px;
   padding: 10px;
-  background-image: url(../../../public/cafe.svg);
-  background-color: rgba(75, 60, 56, 0.884);
+  /* background-image: url(../../../public/cafe.svg); */
+  background-color: rgba(63, 59, 58, 0.575);
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -29,7 +29,7 @@
   /* font-size: 25px; */
   font-weight: bold;
   /* background-color: rgba(5, 4, 4, 0.473); */
-  color: rgb(196, 193, 193);
+  color: aliceblue;
 }
 
 .link-home {
@@ -42,10 +42,11 @@
 }
 
 .center-home {
-  margin-top: 60px;
-  width: 100%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  width: auto;
   text-align:center;
-  margin-bottom: 5px;
+  height: auto;
 }
 
 .text-about {
@@ -55,8 +56,4 @@
   padding: 10px;
   margin: 2px;
   margin-bottom: 10px;
-}
-
-.p-final {
-  margin-bottom: 70px;
 }
